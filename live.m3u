@@ -770,13 +770,7 @@ https://proxy2.hridoytvstream.workers.dev/link-copy-kore-lav-nai=expire363470012
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/Ic3ulgy.png" group-title="sports",Somoy Tv-FiFa 4
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional FiFa-1
-http://114.130.57.233:8080/BTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional FiFa-2
-https://monirul.bro.bd/btv.php
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional FiFa-3
-http://114.130.57.233:8080/btvfifa2026/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/unhEKvf.jpeg" group-title="sports",BTV NAtional FiFa-4
-https://proxy.futuredesh.com/api/proxy?url=http://103.114.11.37:8081/BTV/index.m3u8?token=1dsfds1fsdf
+http://103.114.11.37:8081/BTV/index.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/UmkqPFt.jpeg" group-title="sports",Zeebangla Cinema FiFa
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
 EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WJS9M9E.png" group-title="sports",TSN-1 FiFa
